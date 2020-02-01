@@ -1,0 +1,3 @@
+Individual Report,Daily
+Individual Performance Report,Weekly
+Summary Performance Report,Monthly

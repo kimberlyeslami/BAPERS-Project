@@ -1,0 +1,22 @@
+Jane Doe,
+22 Lincln Road,
+London,
+United Kingdom,
+N9 8DR
+
+The Lab
+Bloomsbury's Image Processing Laboratory
+2, Wynytt Street, London, EC1V 7HU
+Phone: 020 7235 7534
+
+18 April 2018
+
+REMINDER - Invoice No. 1
+Job Code(s): ACN54, C108 Total Amount: 22.8
+
+Dear Jane Doe,
+It appears that we still have not received payment of the above invoice, which was posted to you on 02 March 2018, for photographic work in out laboratory, despite a reminder letter posted to you 1 month later.
+Unless you pay the outstanding amount in full within SEVEN DAYS, or contact us with proposals for repayment, we will have no option but to refer the matter to out solicitor.
+Please send payment immediately to avoid further action.
+Yours Sincerely,
+G.Lancaster
